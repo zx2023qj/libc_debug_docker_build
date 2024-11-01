@@ -3,6 +3,8 @@ build docker for libc debug
 
 通过对Dockerfile的修改，实现开盒即用的libc源码级调试，其实就是写了一个dockerfile，嘿嘿。
 
+奇了个怪了，为什么没办法完整打出libc_debug_docker_build呢，服啦。
+
 使用方法
 
 ```
