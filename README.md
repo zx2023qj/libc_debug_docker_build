@@ -14,7 +14,7 @@ docker-name是任意值，自己取就行
 
 e.g. 
 git clone https://github.com/zx2023qj/libc_debug_docker_build.git
-cd libc_debug
+cd libc_debug_docker_build
 sudo docker build -t glibc2.23-docker .
 ```
 
